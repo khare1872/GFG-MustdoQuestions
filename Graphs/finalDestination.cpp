@@ -5,5 +5,5 @@ class Solution {
         if(minimumStepsRequired>x) return 0;
         if((x-minimumStepsRequired)%2==0) return 1;
         return 0;
-    }
+   }
 };
